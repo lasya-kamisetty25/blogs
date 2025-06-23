@@ -89,4 +89,7 @@
     .cards{
         grid-template-columns: repeat(1,1fr);
     }
+    .cards .card .content{
+        font-size: 12px;
+    }
 }
